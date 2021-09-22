@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="score">Score 0/8</string>
+
+    <string name="question_number">1/8 Question</string>
+
+
+    <string name="question1">What technology is used to make telephone calls over the internet possible ?</string>
+    <string name="question1_A">Bluetooth</string>
+    <string name="question1_B">Ethernet</string>
+    <string name="question1_C">NFC</string>
+    <string name="question1_D">VoIP</string>
+    <string name="answer1">VoIP</string>
+
+    <string name="question2">Which computer language is most widely used?</string>
+    <string name="question_2A">C#</string>
+    <string name="question_2B">Swift</string>
+    <string name="question_2C">PHP</string>
+    <string name="question_2D">Java</string>
+    <string name="answer_2">Java</string>
+
+
+    <string name="question_3">The human genome project was launched in the year?</string>
+    <string name="question_3A">1980</string>
+    <string name="question_3B">1973</string>
+    <string name="question_3C">1990</string>
+    <string name="question_3D">1989</string>
+    <string name="answer_3">1990</string>
+
+
+    <string name="question_4">RNA interference helps in?</string>
+    <string name="question_4A">Cell proliferation</string>
+    <string name="question_4B">Micropropagation</string>
+    <string name="question_4C">Cell defence</string>
+    <string name="question_4D">Cell differentiation</string>
+    <string name="answer_4">Cell defence</string>
+
+    <string name="question_5">Making a compressed digital archive might produce what type of file format</string>
+    <string name="question_5A">PDF</string>
+    <string name="question_5B">JPEG</string>
+    <string name="question_5C">MP3</string>
+    <string name="question_5D">ZIP</string>
+    <string name="answer_5">JPEG</string>
+
+    <string name="question6">What is my name ?</string>
+    <string name="question_6A">Thabet</string>
+    <string name="question_6B">Mohammed</string>
+    <string name="question_6C">Khaled</string>
+    <string name="question_6D">Nazeer</string>
+    <string name="answer_6">Nazeer</string>
+
+    <string name="question7">What is part of a database that holds only one type of information?</string>
+    <string name="question_7A">Report</string>
+    <string name="question_7B">Field</string>
+    <string name="question_7C">Record</string>
+    <string name="question_7D">File</string>
+    <string name="answer_7">Field</string>
+
+    <string name="question8">Bacteria protect themselves from viruses by fragmenting viral DNA with?</string>
+    <string name="question_8A">Ligase</string>
+    <string name="question_8B">Endonuclease</string>
+    <string name="question_8C">Exonuclease</string>
+    <string name="question_8D">Gyrase</string>
+    <string name="answer_8">Endonuclease</string>
+    <string name="selectedoption">SelectedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+
+</resources>
